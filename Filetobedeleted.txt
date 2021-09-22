@@ -1,0 +1,1 @@
+To check that git tracks file events like add/create file, changed, deleted,updated.
