@@ -1,2 +1,2 @@
 Welcome to Git...
-Change am pm for WI1 to check commit -am
+Change am pm for WI1 to check thirty two commit -am
