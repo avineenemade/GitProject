@@ -3,3 +3,4 @@ Hello World!!
 Change - WI4 : feature for payment gateway in-progress
 change - WI4: file2 updated to check stash
 Change - for WI5: to check normal push from local master to origin master
+Change - This is by teammate on remote master for bug file
