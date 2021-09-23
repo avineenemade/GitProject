@@ -1,4 +1,10 @@
 Welcome to Git...
+<<<<<<< HEAD
 Change- am pm for WI1 to check thirty two commit -am
 Chnage- for bug1 login feature
 Change- by team mate for WI2 3-way merging
+=======
+Change am pm for WI1 to check thirty two commit -am
+Chnage for bug1 login feature
+Change for bug2 fix.
+>>>>>>> bug2
